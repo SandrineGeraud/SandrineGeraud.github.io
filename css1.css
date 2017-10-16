@@ -1,0 +1,115 @@
+/* css Yves */
+
+	#body{
+		position: absolute;
+		background-color: rgba(210,210,210,0.1);
+		box-shadow: 5px 5px 30px 5px black;
+		/*border-bottom: 20px solid rgb(21,21,210);*/
+		margin: auto;
+		margin-top: 2px;
+		margin-bottom: 2px;
+		margin-left: 200px;
+		margin-right: 250px;
+		height:1475px;
+		width:950px;
+	}
+	#posi_corps{
+		position: absolute;
+		top: 362px;
+		left: 330px;
+		background-color: rgba(253,108,158,0.5);
+		height:700px;
+		width:600px;
+		border-radius: 5px 7px/7px 5px;
+	}
+	
+	
+	
+	#menu{	
+		position: absolute;
+		left: 300px;
+		top: 300px;
+	}
+	
+	#pied{	
+		position: absolute;
+		left: 0px;
+		top: 1075px;
+		background-color: bleu;
+		height:1011px;
+		width:950px;
+	}
+	#piedacceuil{	
+		position: absolute;
+		left: 0px;
+		top: 1075px;
+		background-color: bleu;
+		height:1011px;
+		width:950px;
+	}
+	
+#menu_onglet {
+							background-color: rgb(220,220,220,0.5);
+							border-radius: 3px 4px/4px 3px;
+							padding-right: 1px;
+							padding-left: 1px;
+							padding-top: 10px;
+							padding-bottom: 1px;
+							text-align: center;
+							border-shadow: ;	
+						}
+#menu_onglet  a
+						{
+							text-decoration: none;
+							text-align: center;
+							padding-right: 5px;
+							padding-left: 5px;
+							border-radius: 3px 4px/4px 3px;
+							padding-top: 5px;
+							padding-bottom: 5px;
+							background-color: rgb(77,191,186);
+							}
+#menu_onglet a:hover
+						{
+	background-color: rgb(12,25,80);
+	color:white;
+							}
+
+.clignote a{text-decoration:overline; color:rgb(255,127,39);}
+.clignote a:hover{text-decoration: none; COLOR:RGB(255,255,255);}
+.alien a{text-decoration: none;}
+.alien a:hover{font-size: 30px;text-decoration: none;}
+
+.c1{background-color: rgb(127,127,127); border-radius: 0px 35px 0px 0px;}
+.c1{background-color: rgba(129,129,129,0.7);}
+.c2{background-color: rgba(129,129,129,0.7);}
+.c3{background-color: rgba(220,210,210,0.7);}
+.c4{background-color: rgba(129,129,129,0.7);}
+.c5{background-color: rgba(129,129,129,0.7);border-radius: 0px 0px 50px 0px;}
+
+#ctc{
+	position:absolute;
+		top: 90px;
+		left: 30px;
+}
+
+#part{
+	position:absolute;
+		top: 3px;
+		left: 555px;
+}
+
+#part img{
+	border-radius: 15px 0px 15px 0px;
+	width:120px;
+	height:182px;
+}
+
+#textepied {
+	color: #ffffff ;
+	font-size: 70px ;
+	font-family: 'LearningCurveProRegular';
+	border-style: solid;
+    border-color: #ffffff;
+	font-weight: bold;
+}
